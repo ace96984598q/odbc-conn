@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\odbc conn\odbc conn\bin\Debug\odbc conn.exe.config
+C:\Users\user\source\repos\odbc conn\odbc conn\bin\Debug\odbc conn.exe
+C:\Users\user\source\repos\odbc conn\odbc conn\bin\Debug\odbc conn.pdb
+C:\Users\user\source\repos\odbc conn\odbc conn\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\user\source\repos\odbc conn\odbc conn\obj\Debug\odbc conn.csprojAssemblyReference.cache
+C:\Users\user\source\repos\odbc conn\odbc conn\obj\Debug\odbc_conn.Form1.resources
+C:\Users\user\source\repos\odbc conn\odbc conn\obj\Debug\odbc_conn.Properties.Resources.resources
+C:\Users\user\source\repos\odbc conn\odbc conn\obj\Debug\odbc conn.csproj.GenerateResource.cache
+C:\Users\user\source\repos\odbc conn\odbc conn\obj\Debug\odbc conn.csproj.CopyComplete
+C:\Users\user\source\repos\odbc conn\odbc conn\obj\Debug\odbc conn.exe
+C:\Users\user\source\repos\odbc conn\odbc conn\obj\Debug\odbc conn.pdb
